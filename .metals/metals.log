@@ -1,0 +1,23 @@
+2022.02.21 14:16:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\play-samples-play-scala-hello-world-tutorial\.metals\lsp.trace.json or C:\Users\Lenovo\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.02.21 14:16:47 INFO  logging to file D:\play-samples-play-scala-hello-world-tutorial\.metals\metals.log
+2022.02.21 14:16:47 INFO  Started: Metals version 0.11.1 in workspace 'D:\play-samples-play-scala-hello-world-tutorial' for client Visual Studio Code 1.64.2.
+2022.02.21 14:16:47 INFO  Parse release: 1.8.0_292
+2022.02.21 14:16:54 INFO  time: initialize in 6.68s
+2022.02.21 14:16:59 WARN  Build server is not auto-connectable.
+2022.02.21 14:17:41 WARN  no build target for: D:\play-samples-play-scala-hello-world-tutorial\project\plugins.sbt
+2022.02.21 14:17:48 INFO  no build target found for D:\play-samples-play-scala-hello-world-tutorial\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.1.0
+Feb 21, 2022 2:17:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2022.02.21 14:17:53 INFO  time: code lens generation in 2.05s
+2022.02.21 14:17:53 INFO  time: code lens generation in 1.68s
+2022.02.21 14:17:53 INFO  time: code lens generation in 2.36s
+2022.02.21 14:17:53 INFO  time: code lens generation in 2.41s
+2022.02.21 14:17:53 INFO  time: code lens generation in 8.58s
+2022.02.21 14:17:53 INFO  time: code lens generation in 10s
+2022.02.21 14:17:53 INFO  time: code lens generation in 11s
+2022.02.21 14:18:50 WARN  no build target for: D:\play-samples-play-scala-hello-world-tutorial\project\plugins.sbt
+2022.02.21 14:20:59 WARN  no build target for: D:\play-samples-play-scala-hello-world-tutorial\build.sbt
+2022.02.21 14:21:53 WARN  no build target for: D:\play-samples-play-scala-hello-world-tutorial\build.sbt
+2022.02.21 14:21:53 WARN  no build target for: D:\play-samples-play-scala-hello-world-tutorial\build.sbt
+2022.02.21 14:21:54 INFO  skipping build import with status 'Dismissed'
+2022.02.21 14:23:53 INFO  shutting down Metals
